@@ -14,7 +14,7 @@ Run:
     streamlit run app.py
 """
 
-import joblib
+#import joblib
 import numpy as np
 import pandas as pd
 import streamlit as st
